@@ -1,12 +1,11 @@
 Swingo
-Copyright 2026 derangga
+Copyright 2026 derangga. All rights reserved.
 
 Swingo is a native macOS client for MongoDB, created by derangga.
 https://github.com/derangga/swingo-releases
 
-If you distribute a work derived from Swingo, the Apache License 2.0 (section 4(d))
-requires you to include a readable copy of this notice with it, in a NOTICE file, in
-documentation, or in a screen of the work such as About, wherever notices like this normally
-appear. Please state that your work is based on Swingo.
+The Swingo application is free to use under the Swingo License, see LICENSE. Its source code
+is not published and is not licensed. Open source components inside the application are
+licensed under their own terms.
 
 "Swingo" and the Swingo icon are trademarks of derangga. See TRADEMARKS.md.

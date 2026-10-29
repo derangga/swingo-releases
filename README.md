@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0">
+  <img src="https://img.shields.io/badge/License-Freeware-lightgrey.svg" alt="License: Freeware">
   <img src="https://img.shields.io/badge/macOS-15.0%2B-brightgreen.svg" alt="macOS 15.0+">
 </p>
 
@@ -134,5 +134,7 @@ Docker instance or Atlas.
 
 ## License
 
-Apache License 2.0, see [LICENSE](./LICENSE) and [NOTICE](./NOTICE). The Swingo name and icon
-are trademarks, see [TRADEMARKS.md](./TRADEMARKS.md).
+Free to use under the Swingo License, see [LICENSE](./LICENSE) and [NOTICE](./NOTICE). The source
+code is not published and is not licensed. Releases v0.1.0 through v0.3.0 were MIT and v0.3.1 was
+Apache 2.0, and copies of those keep that license. The Swingo name and icon are trademarks, see
+[TRADEMARKS.md](./TRADEMARKS.md).
